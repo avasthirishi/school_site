@@ -175,7 +175,7 @@
   <section class="bg-gradient-to-r from-primary to-secondary text-white py-16 px-6 text-center">
     <h2 class="text-3xl md:text-4xl font-blackhan mb-6">Contact Us</h2>
     <p class="text-base sm:text-lg mb-2">📍 Ambedkar Chowk Towards East, Vijay Nagar, B/10, Patna-20</p>
-    <p class="text-base sm:text-lg mb-2">📞 <strong>9304348624 / 7870398844</strong></p>
+    <p class="text-base sm:text-lg mb-2">📞 <strong>9304348624 / 9431291346</strong></p>
     <p class="text-blue-100 text-sm sm:text-base">
       Join Nirman Academy today and give your child a head start toward success!
     </p>
