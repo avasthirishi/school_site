@@ -54,11 +54,11 @@
           </p>
           <p class="flex items-start">
             <i class="fa-solid fa-phone text-accent mr-3 mt-1"></i>
-            <a href="tel:+919155921188" class="hover:text-secondary">+91-9155921188</a>
+            <a href="tel:+919431291346" class="hover:text-secondary">+91-9431291346</a>
           </p>
           <p class="flex items-start">
             <i class="fa-solid fa-envelope text-accent mr-3 mt-1"></i>
-            <a href="mailto:info@nirmaneducation.com" class="hover:text-secondary">info@nirmaneducation.com</a>
+            <a href="mailto:admission.nirmanonline@gmail.com" class="hover:text-secondary">admission.nirmanonline@gmail.com</a>
           </p>
         </div>
 
