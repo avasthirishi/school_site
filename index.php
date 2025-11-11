@@ -94,7 +94,7 @@
       <div class="grid gap-10 sm:grid-cols-2 lg:grid-cols-3">
         <?php
           $team = [
-            ['img' => 'ritu_gupta.jpg', 'name' => 'Ritu Gupta Roy', 'role' => 'Secretary'],
+            ['img' => 'ritu_gupta.jpg', 'name' => 'Ritu Gupta Roy', 'role' => 'Secretary & Director'],
             ['img' => 'amit_roy.jpg', 'name' => 'Amit Kumar Roy', 'role' => 'Founder'],
             ['img' => 'kripal_kanchan.jpg', 'name' => 'Kripal Kanchan', 'role' => 'Academic Coordinator']
           ];
@@ -121,7 +121,7 @@
           How to Enroll Your Child?
         </h2>
         <p class="text-sm text-gray-600 mb-6">
-          Call <span class="text-orange-500 font-semibold">+91-9155921188</span> or fill in the form below
+          Call <span class="text-orange-500 font-semibold">+91-9431291346</span> or fill in the form below
         </p>
 
         <form action="contact_submit.php" method="post" class="space-y-4 bg-gray-50 border border-gray-100 rounded-lg shadow-sm p-6">
